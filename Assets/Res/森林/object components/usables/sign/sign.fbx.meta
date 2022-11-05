@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 0f3b3c952dea8cf4ca20c9dc7fb9fcb9
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  - first:
+      74: -5364292843877811487
+    second: schild|Box001.001|Take 001|BaseLayer
+  - first:
+      74: -2683336476741160307
+    second: schild|Box001.002|Take 001|BaseLayer
+  - first:
+      74: 3706250088358322547
+    second: schild|Box001.003|Take 001|BaseLayer
+  - first:
+      74: -8438656769556166605
+    second: schild|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 1813346045024049982
+    second: schild|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: -6434428176453139729
+    second: schild|schild|Take 001|BaseLayer
+  - first:
+      74: 5509943824818820766
+    second: schild.001|Box001.001|Take 001|BaseLayer
+  - first:
+      74: -313595600470866784
+    second: schild.001|Box001.002|Take 001|BaseLayer
+  - first:
+      74: -7181984537869596034
+    second: schild.001|Box001.003|Take 001|BaseLayer
+  - first:
+      74: -1689512930519923154
+    second: schild.001|Cylinder001|Cylinder001|Box001.001|Take 001|BaseLayer|Cylinder0
+  - first:
+      74: -2650320277536554847
+    second: schild.001|Cylinder001|Cylinder001|Box001.002|Take 001|BaseLayer|Cylinder0
+  - first:
+      74: -1828235607569843578
+    second: schild.001|Cylinder001|Cylinder001|Box001.003|Take 001|BaseLayer|Cylinder0
+  - first:
+      74: -2462841754808991507
+    second: schild.001|Cylinder001|Cylinder001|Cylinder001|Take 001|BaseLayer|Cylinder
+  - first:
+      74: -9215790906149371359
+    second: schild.001|Cylinder001|Cylinder001|Cylinder002|Take 001|BaseLayer|Cylinder
+  - first:
+      74: -4954164428587699305
+    second: schild.001|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 5826556931004016275
+    second: schild.001|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: -9062859565374214453
+    second: schild.001|pCylinder1.002|Take 001|BaseLayer
+  - first:
+      74: 5819689099338380601
+    second: schild.001|schild.001|schild|Box001.001|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -6180693184346286415
+    second: schild.001|schild.001|schild|Box001.002|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -5529896821647855890
+    second: schild.001|schild.001|schild|Box001.003|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -3324130320599945269
+    second: schild.001|schild.001|schild|Cylinder001|Take 001|BaseLayer|schild|Cylinde
+  - first:
+      74: -8808084255130292200
+    second: schild.001|schild.001|schild|Cylinder002|Take 001|BaseLayer|schild|Cylinde
+  - first:
+      74: -6987791248076911390
+    second: 'schild.001|schild.001|schild|schild|Take 001|BaseLayer|schild|schild|Take '
+  - first:
+      74: -2877396755138288371
+    second: schild.001|schild.002|schild|Box001.001|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -902960800751099252
+    second: schild.001|schild.002|schild|Box001.002|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: 4566652957673975305
+    second: schild.001|schild.002|schild|Box001.003|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -818874380892755684
+    second: schild.001|schild.002|schild|Cylinder001|Take 001|BaseLayer|schild|Cylinde
+  - first:
+      74: -1215418350361291096
+    second: schild.001|schild.002|schild|Cylinder002|Take 001|BaseLayer|schild|Cylinde
+  - first:
+      74: -2983316240477283521
+    second: 'schild.001|schild.002|schild|schild|Take 001|BaseLayer|schild|schild|Take '
+  - first:
+      74: 8593428545597397753
+    second: schild.001|schild|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

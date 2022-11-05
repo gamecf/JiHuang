@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: af59d7eb2d609eb41b64e6bea65b68c9
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  - first:
+      74: 1368258084331294123
+    second: pCylinder1.002|Box001.001|Take 001|BaseLayer
+  - first:
+      74: -7099041062416327486
+    second: pCylinder1.002|Box001.002|Take 001|BaseLayer
+  - first:
+      74: -2349414149365792378
+    second: pCylinder1.002|Box001.003|Take 001|BaseLayer
+  - first:
+      74: -5497123426645442839
+    second: pCylinder1.002|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 2348525744965328888
+    second: pCylinder1.002|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: -4384664123437600719
+    second: pCylinder1.002|pCylinder1.002|Take 001|BaseLayer
+  - first:
+      74: -428032278198134842
+    second: pCylinder1.002|schild|Take 001|BaseLayer
+  - first:
+      74: 4500410157727900939
+    second: pCylinder1.002|Cylinder001|Cylinder001|Box001.001|Take 001|BaseLayer|Cylinder0
+  - first:
+      74: -2128081274525944629
+    second: pCylinder1.002|Cylinder001|Cylinder001|Box001.002|Take 001|BaseLayer|Cylinder0
+  - first:
+      74: -1459071783845479399
+    second: pCylinder1.002|Cylinder001|Cylinder001|Box001.003|Take 001|BaseLayer|Cylinder0
+  - first:
+      74: 8031049075796201243
+    second: pCylinder1.002|Cylinder001|Cylinder001|Cylinder001|Take 001|BaseLayer|Cylinder
+  - first:
+      74: 3880584860419992249
+    second: pCylinder1.002|Cylinder001|Cylinder001|Cylinder002|Take 001|BaseLayer|Cylinder
+  - first:
+      74: -1923047517168820755
+    second: pCylinder1.002|pCylinder1.002|pCylinder1.002|Box001.001|Take 001|BaseLayer|pCy
+  - first:
+      74: 7401831818052756000
+    second: pCylinder1.002|pCylinder1.002|pCylinder1.002|Box001.002|Take 001|BaseLayer|pCy
+  - first:
+      74: -2832161080558600117
+    second: pCylinder1.002|pCylinder1.002|pCylinder1.002|Box001.003|Take 001|BaseLayer|pCy
+  - first:
+      74: -4312283617368414512
+    second: pCylinder1.002|pCylinder1.002|pCylinder1.002|Cylinder001|Take 001|BaseLayer|pC
+  - first:
+      74: -6887237236876227662
+    second: pCylinder1.002|pCylinder1.002|pCylinder1.002|Cylinder002|Take 001|BaseLayer|pC
+  - first:
+      74: -115234404525797186
+    second: pCylinder1.002|pCylinder1.002|pCylinder1.002|pCylinder1.002|Take 001|BaseLayer
+  - first:
+      74: -4386253426000516423
+    second: pCylinder1.002|pCylinder1.002|pCylinder1.002|schild|Take 001|BaseLayer|pCylind
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

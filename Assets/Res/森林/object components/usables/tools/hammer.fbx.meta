@@ -1,0 +1,514 @@
+fileFormatVersion: 2
+guid: f8af66dcd04d3d44c85003e249b38355
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: 1827226128182048838
+    second: Take 001
+  - first:
+      74: -1714723073426602004
+    second: pCylinder4.002|Box001.001|Take 001|BaseLayer
+  - first:
+      74: 2588259156240753651
+    second: pCylinder4.002|Box001.002|Take 001|BaseLayer
+  - first:
+      74: 7060585412469362944
+    second: pCylinder4.002|Box001.002|Take 001|BaseLayer.001
+  - first:
+      74: -1872839741730104691
+    second: pCylinder4.002|Box001.003|Take 001|BaseLayer
+  - first:
+      74: -1640236631297850234
+    second: pCylinder4.002|Cylinder001|Cylinder001|Box001.001|Take 001|BaseLayer|Cylinder0
+  - first:
+      74: 5194519610771228738
+    second: pCylinder4.002|Cylinder001|Cylinder001|Box001.002|Take 001|BaseLayer|Cylinder0
+  - first:
+      74: 4803590842988434208
+    second: pCylinder4.002|Cylinder001|Cylinder001|Box001.003|Take 001|BaseLayer|Cylinder0
+  - first:
+      74: -6369214989232807754
+    second: pCylinder4.002|Cylinder001|Cylinder001|Cylinder001|Take 001|BaseLayer|Cylinder
+  - first:
+      74: -8541923870072512664
+    second: pCylinder4.002|Cylinder001|Cylinder001|Cylinder002|Take 001|BaseLayer|Cylinder
+  - first:
+      74: 8963446423317273813
+    second: pCylinder4.002|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: -5698378459220676397
+    second: pCylinder4.002|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: 8948927284657914028
+    second: pCylinder4.002|pCylinder1.002|Take 001|BaseLayer
+  - first:
+      74: 7601603767846349118
+    second: pCylinder4.002|pCylinder3.002|Take 001|BaseLayer
+  - first:
+      74: 8489232266975102688
+    second: pCylinder4.002|pCylinder4.002|Take 001|BaseLayer
+  - first:
+      74: -4188448528963115249
+    second: pCylinder4.002|schild.001|schild|Box001.001|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: 8805365848549000287
+    second: pCylinder4.002|schild.001|schild|Box001.002|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: 8290824714671630621
+    second: pCylinder4.002|schild.001|schild|Box001.003|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: 3522054120697608343
+    second: pCylinder4.002|schild.001|schild|Cylinder001|Take 001|BaseLayer|schild|Cylinde
+  - first:
+      74: -28024797392829337
+    second: pCylinder4.002|schild.001|schild|Cylinder002|Take 001|BaseLayer|schild|Cylinde
+  - first:
+      74: 6042469184349003851
+    second: 'pCylinder4.002|schild.001|schild|schild|Take 001|BaseLayer|schild|schild|Take '
+  - first:
+      74: -1150750885133730444
+    second: pCylinder4.002|schild.002|schild|Box001.001|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -2643287220308744092
+    second: pCylinder4.002|schild.002|schild|Box001.002|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -5862693453124437404
+    second: pCylinder4.002|schild.002|schild|Box001.003|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -1837507911341842226
+    second: pCylinder4.002|schild.002|schild|Cylinder001|Take 001|BaseLayer|schild|Cylinde
+  - first:
+      74: 6439366409356687145
+    second: pCylinder4.002|schild.002|schild|Cylinder002|Take 001|BaseLayer|schild|Cylinde
+  - first:
+      74: 5606783201379230823
+    second: 'pCylinder4.002|schild.002|schild|schild|Take 001|BaseLayer|schild|schild|Take '
+  - first:
+      74: 3365178568112011695
+    second: pCylinder4.002|schild|Take 001|BaseLayer
+  - first:
+      74: -7271179238353083045
+    second: pCylinder4.001|Box001.001|Take 001|BaseLayer
+  - first:
+      74: -341738753548845783
+    second: pCylinder4.001|Box001.002|Box001.002|Box001.001|Take 001|BaseLayer|Box001.002|
+  - first:
+      74: 863356423051634128
+    second: pCylinder4.001|Box001.002|Box001.002|Box001.002|Take 001|BaseLayer.001|Box001.
+  - first:
+      74: -6797363366383577279
+    second: pCylinder4.001|Box001.002|Box001.002|Box001.002|Take 001|BaseLayer|Box001.002|
+  - first:
+      74: 6137895646769386575
+    second: pCylinder4.001|Box001.002|Box001.002|Box001.003|Take 001|BaseLayer|Box001.002|
+  - first:
+      74: 5285939331510011403
+    second: pCylinder4.001|Box001.002|Box001.002|Cylinder001|Cylinder001|Box001.001|Take
+      0
+  - first:
+      74: -5121471638573334198
+    second: pCylinder4.001|Box001.002|Box001.002|Cylinder001|Cylinder001|Box001.002|Take
+      0
+  - first:
+      74: 7927412668761302783
+    second: pCylinder4.001|Box001.002|Box001.002|Cylinder001|Cylinder001|Box001.003|Take
+      0
+  - first:
+      74: 1385432553547430273
+    second: 'pCylinder4.001|Box001.002|Box001.002|Cylinder001|Cylinder001|Cylinder001|Take '
+  - first:
+      74: 7753219507400822567
+    second: 'pCylinder4.001|Box001.002|Box001.002|Cylinder001|Cylinder001|Cylinder002|Take '
+  - first:
+      74: 2109865468289018152
+    second: pCylinder4.001|Box001.002|Box001.002|Cylinder001|Take 001|BaseLayer|Box001.002
+  - first:
+      74: -6444214828514898476
+    second: pCylinder4.001|Box001.002|Box001.002|Cylinder002|Take 001|BaseLayer|Box001.002
+  - first:
+      74: -1458197062480987445
+    second: pCylinder4.001|Box001.002|Box001.002|pCylinder1.002|Take 001|BaseLayer|Box001.
+  - first:
+      74: -7494786740944941343
+    second: pCylinder4.001|Box001.002|Box001.002|schild.001|schild|Box001.001|Take
+      001|Bas
+  - first:
+      74: -3935630763170228988
+    second: pCylinder4.001|Box001.002|Box001.002|schild.001|schild|Box001.002|Take
+      001|Bas
+  - first:
+      74: -2049239064420653479
+    second: pCylinder4.001|Box001.002|Box001.002|schild.001|schild|Box001.003|Take
+      001|Bas
+  - first:
+      74: -2030039861424033682
+    second: pCylinder4.001|Box001.002|Box001.002|schild.001|schild|Cylinder001|Take
+      001|Ba
+  - first:
+      74: 42135594278097332
+    second: pCylinder4.001|Box001.002|Box001.002|schild.001|schild|Cylinder002|Take
+      001|Ba
+  - first:
+      74: 6296715281364028574
+    second: pCylinder4.001|Box001.002|Box001.002|schild.001|schild|schild|Take 001|BaseLay
+  - first:
+      74: -6788391224845917224
+    second: pCylinder4.001|Box001.002|Box001.002|schild.002|schild|Box001.001|Take
+      001|Bas
+  - first:
+      74: -7316056193759178160
+    second: pCylinder4.001|Box001.002|Box001.002|schild.002|schild|Box001.002|Take
+      001|Bas
+  - first:
+      74: -9129830415488228235
+    second: pCylinder4.001|Box001.002|Box001.002|schild.002|schild|Box001.003|Take
+      001|Bas
+  - first:
+      74: -2443508439048945514
+    second: pCylinder4.001|Box001.002|Box001.002|schild.002|schild|Cylinder001|Take
+      001|Ba
+  - first:
+      74: -5188743402327496638
+    second: pCylinder4.001|Box001.002|Box001.002|schild.002|schild|Cylinder002|Take
+      001|Ba
+  - first:
+      74: 131971119664171455
+    second: pCylinder4.001|Box001.002|Box001.002|schild.002|schild|schild|Take 001|BaseLay
+  - first:
+      74: -7124376294272764206
+    second: pCylinder4.001|Box001.002|Box001.002|schild|Take 001|BaseLayer|Box001.002|schi
+  - first:
+      74: 1571190703768884912
+    second: pCylinder4.001|Box001.002|Take 001|BaseLayer
+  - first:
+      74: 2174466255032730834
+    second: pCylinder4.001|Box001.002|Take 001|BaseLayer.001
+  - first:
+      74: 3295051491660246056
+    second: pCylinder4.001|Box001.003|Take 001|BaseLayer
+  - first:
+      74: -7878681700779702486
+    second: pCylinder4.001|Cylinder001|Cylinder001|Box001.001|Take 001|BaseLayer|Cylinder0
+  - first:
+      74: -4148840180912163255
+    second: pCylinder4.001|Cylinder001|Cylinder001|Box001.002|Take 001|BaseLayer|Cylinder0
+  - first:
+      74: -6957692095906275930
+    second: pCylinder4.001|Cylinder001|Cylinder001|Box001.003|Take 001|BaseLayer|Cylinder0
+  - first:
+      74: -6270103614133973688
+    second: pCylinder4.001|Cylinder001|Cylinder001|Cylinder001|Take 001|BaseLayer|Cylinder
+  - first:
+      74: -3029041586812377455
+    second: pCylinder4.001|Cylinder001|Cylinder001|Cylinder002|Take 001|BaseLayer|Cylinder
+  - first:
+      74: -4929254623047730953
+    second: pCylinder4.001|Cylinder001|Take 001|BaseLayer
+  - first:
+      74: 8685999397649197927
+    second: pCylinder4.001|Cylinder002|Take 001|BaseLayer
+  - first:
+      74: -264915185686984030
+    second: pCylinder4.001|pCylinder1.002|Take 001|BaseLayer
+  - first:
+      74: -6680567350994905803
+    second: pCylinder4.001|pCylinder3.002|Take 001|BaseLayer
+  - first:
+      74: -2445450560997654813
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|Box001.001|Take 001|BaseLayer|pCy
+  - first:
+      74: -7241283493868865747
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|Box001.002|Take 001|BaseLayer.001
+  - first:
+      74: -3148969248270332028
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|Box001.002|Take 001|BaseLayer|pCy
+  - first:
+      74: 6803695906725910303
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|Box001.003|Take 001|BaseLayer|pCy
+  - first:
+      74: 3823438873151728106
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|Cylinder001|Cylinder001|Box00.000
+  - first:
+      74: 7245381787812441873
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|Cylinder001|Cylinder001|Box00.001
+  - first:
+      74: -4760762178260433704
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|Cylinder001|Cylinder001|Box001.00
+  - first:
+      74: -5420983832850960154
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|Cylinder001|Cylinder001|Cylin.000
+  - first:
+      74: 5574136620861166304
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|Cylinder001|Cylinder001|Cylinder0
+  - first:
+      74: -4990925708700431804
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|Cylinder001|Take 001|BaseLayer|pC
+  - first:
+      74: 1964386826994982313
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|Cylinder002|Take 001|BaseLayer|pC
+  - first:
+      74: -2844897034243484129
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|pCylinder1.002|Take 001|BaseLayer
+  - first:
+      74: 3063107201649654111
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|pCylinder3.002|Take 001|BaseLayer
+  - first:
+      74: 21270589962548650
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|pCylinder4.002|Take 001|BaseLayer
+  - first:
+      74: 3786153902234268035
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|schild.001|schild|Box001.001|Take
+  - first:
+      74: 6524915196783289417
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|schild.001|schild|Box001.002|Take
+  - first:
+      74: -5214467361483130010
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|schild.001|schild|Box001.003|Take
+  - first:
+      74: -5206476106059287602
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|schild.001|schild|Cylinder001|Tak
+  - first:
+      74: 7062407030588625999
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|schild.001|schild|Cylinder002|Tak
+  - first:
+      74: -7793839995313193304
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|schild.001|schild|schild|Take
+      001
+  - first:
+      74: 8931897168841312383
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|schild.002|schild|Box001.001|Take
+  - first:
+      74: 4594943179607111070
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|schild.002|schild|Box001.002|Take
+  - first:
+      74: 4280969628949636843
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|schild.002|schild|Box001.003|Take
+  - first:
+      74: -8840205931685235731
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|schild.002|schild|Cylinder001|Tak
+  - first:
+      74: 7460650206021440972
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|schild.002|schild|Cylinder002|Tak
+  - first:
+      74: 7720204430603390824
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|schild.002|schild|schild|Take
+      001
+  - first:
+      74: -8100734121421058615
+    second: pCylinder4.001|pCylinder4.001|pCylinder4.002|schild|Take 001|BaseLayer|pCylind
+  - first:
+      74: 7751104819738163668
+    second: pCylinder4.001|pCylinder4.002|Take 001|BaseLayer
+  - first:
+      74: 5469643069875265479
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|Box001.001|Take 001|BaseLayer|pCy
+  - first:
+      74: -8134252004851821269
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|Box001.002|Take 001|BaseLayer.001
+  - first:
+      74: 2797081801892238567
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|Box001.002|Take 001|BaseLayer|pCy
+  - first:
+      74: 8408168892259574367
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|Box001.003|Take 001|BaseLayer|pCy
+  - first:
+      74: 1881992296759134020
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|Cylinder001|Cylinder001|Box00.000
+  - first:
+      74: -6334117875378781293
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|Cylinder001|Cylinder001|Box00.001
+  - first:
+      74: 4708412770100436156
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|Cylinder001|Cylinder001|Box001.00
+  - first:
+      74: 2014762434074841532
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|Cylinder001|Cylinder001|Cylin.000
+  - first:
+      74: 5146406706482522302
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|Cylinder001|Cylinder001|Cylinder0
+  - first:
+      74: 7375286223306386915
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|Cylinder001|Take 001|BaseLayer|pC
+  - first:
+      74: -7906439114985786185
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|Cylinder002|Take 001|BaseLayer|pC
+  - first:
+      74: 1631487811923230726
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|pCylinder1.002|Take 001|BaseLayer
+  - first:
+      74: 4417294575094124102
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|pCylinder3.002|Take 001|BaseLayer
+  - first:
+      74: 3780404108205314198
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|pCylinder4.002|Take 001|BaseLayer
+  - first:
+      74: -3181649374099723561
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|schild.001|schild|Box001.001|Take
+  - first:
+      74: 9069496659117806682
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|schild.001|schild|Box001.002|Take
+  - first:
+      74: 1214667028733765533
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|schild.001|schild|Box001.003|Take
+  - first:
+      74: 4840429194617793927
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|schild.001|schild|Cylinder001|Tak
+  - first:
+      74: -1465023887819345792
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|schild.001|schild|Cylinder002|Tak
+  - first:
+      74: -6077096479095982161
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|schild.001|schild|schild|Take
+      001
+  - first:
+      74: -6489648942027643009
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|schild.002|schild|Box001.001|Take
+  - first:
+      74: -8213795286073789004
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|schild.002|schild|Box001.002|Take
+  - first:
+      74: -1786079163297944211
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|schild.002|schild|Box001.003|Take
+  - first:
+      74: -7419017747209356939
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|schild.002|schild|Cylinder001|Tak
+  - first:
+      74: 2843434546713947465
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|schild.002|schild|Cylinder002|Tak
+  - first:
+      74: 7994271375133484739
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|schild.002|schild|schild|Take
+      001
+  - first:
+      74: -8668322785222687469
+    second: pCylinder4.001|pCylinder4.003|pCylinder4.002|schild|Take 001|BaseLayer|pCylind
+  - first:
+      74: 6791709562696588978
+    second: pCylinder4.001|schild.001|schild|Box001.001|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -9123983500807801644
+    second: pCylinder4.001|schild.001|schild|Box001.002|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -4351141360066431775
+    second: pCylinder4.001|schild.001|schild|Box001.003|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -4884808257089286213
+    second: pCylinder4.001|schild.001|schild|Cylinder001|Take 001|BaseLayer|schild|Cylinde
+  - first:
+      74: -7995277407801499754
+    second: pCylinder4.001|schild.001|schild|Cylinder002|Take 001|BaseLayer|schild|Cylinde
+  - first:
+      74: 2535545032027326656
+    second: 'pCylinder4.001|schild.001|schild|schild|Take 001|BaseLayer|schild|schild|Take '
+  - first:
+      74: -8011151695985003891
+    second: pCylinder4.001|schild.002|schild|Box001.001|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -6280290414761020441
+    second: pCylinder4.001|schild.002|schild|Box001.002|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -4416690239957962791
+    second: pCylinder4.001|schild.002|schild|Box001.003|Take 001|BaseLayer|schild|Box001.0
+  - first:
+      74: -38246524931298242
+    second: pCylinder4.001|schild.002|schild|Cylinder001|Take 001|BaseLayer|schild|Cylinde
+  - first:
+      74: -2894011922572473531
+    second: pCylinder4.001|schild.002|schild|Cylinder002|Take 001|BaseLayer|schild|Cylinde
+  - first:
+      74: -6275021822790432810
+    second: 'pCylinder4.001|schild.002|schild|schild|Take 001|BaseLayer|schild|schild|Take '
+  - first:
+      74: -7528374689502069224
+    second: pCylinder4.001|schild|Take 001|BaseLayer
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
